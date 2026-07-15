@@ -658,6 +658,11 @@ This project demonstrates:
 - Strategy analysis is educational only, not financial advice
 - Do not make real investment decisions based on this application
 
+## Video Demo Link
+```bash
+https://youtu.be/LPRusPzBvnQ
+```
+
 ## License
 
 This project is part of the SmartBridge internship program.
